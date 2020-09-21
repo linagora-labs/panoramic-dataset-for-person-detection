@@ -31,3 +31,5 @@ our repository is made up of the following files:
     │   └── Main
     
     └── JPEGImages
+
+All labels are annotated by [LabelImage](https://github.com/tzutalin/labelImg)
