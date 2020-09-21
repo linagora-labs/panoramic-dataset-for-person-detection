@@ -1,6 +1,6 @@
 # Panoramic Database
 
-This database contains panoramic images of the work meetings at LINAGORA.
+This database contains 1541 annotated panoramic images of work meetings at LINAGORA.
 
 In addition, this database contains annotations of people.
 
