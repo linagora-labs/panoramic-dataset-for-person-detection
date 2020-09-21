@@ -8,4 +8,26 @@ The database note format is [VocPascal](https://medium.com/towards-artificial-in
 
 our repository is made up of the following files:
 
-![repo](https://photos.google.com/u/5/photo/AF1QipNSwKUcFY8QwvGVxvmeCllCdl-AC9WZ8oYGkKiy) 
+
+.
+├── data_gestures
+
+│   ├── Annotations
+
+│   ├── ImageSets
+
+│   │   └── Main
+
+│   └── JPEGImages
+
+└── data_person
+
+    ├── Annotations
+    
+    ├── data
+    
+    ├── ImageSets
+    
+    │   └── Main
+    
+    └── JPEGImages
