@@ -1,6 +1,6 @@
 # Panoramic Dataset
 
-* This database contains 1541 annotated panoramic images of work meetings at LINAGORA.
+* This dataset contains 1541 annotated panoramic images of work meetings at LINAGORA.
 
 * In addition, this database contains annotations of people.
 
